@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fs-holzdesign.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://fs-holzdesign.github.io/</loc>
+</url>
+<url>
+<loc>https://fs-holzdesign.github.io/degu-zubehoer/</loc>
+<lastmod>2026-10-18T19:17:48+02:00</lastmod>
+<image:image>
+<image:loc>https://fs-holzdesign.github.io/media/posts/2/20250603_192617.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fs-holzdesign.github.io/media/posts/2/gallery/20230304_181528.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fs-holzdesign.github.io/media/posts/2/gallery/20211021_192326.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fs-holzdesign.github.io/media/posts/2/gallery/20190808_143158.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fs-holzdesign.github.io/media/posts/2/gallery/20230315_191739.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fs-holzdesign.github.io/media/posts/2/20190802_163758.jpg</image:loc>
+<image:title><![CDATA[Birke Multiplex]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://fs-holzdesign.github.io/fs-holzdesign/</loc>
+<lastmod>2026-10-18T18:29:28+02:00</lastmod>
+</url>
+</urlset>

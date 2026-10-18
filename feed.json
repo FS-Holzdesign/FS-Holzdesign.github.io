@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "https://fs-holzdesign.github.io/",
+    "description": "",
+    "home_page_url": "https://fs-holzdesign.github.io",
+    "feed_url": "https://fs-holzdesign.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://fs-holzdesign.github.io/media/website/FA-Logo1mod3-2.jpg",
+    "author": {
+        "name": "FS Holz Design"
+    },
+    "items": [
+    ]
+}
