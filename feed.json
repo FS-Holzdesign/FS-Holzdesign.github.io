@@ -10,5 +10,18 @@
         "name": "FS Holz Design"
     },
     "items": [
+        {
+            "id": "https://fs-holzdesign.github.io/herzlich-wilkommen-in-meiner-holzwerkstatt/",
+            "url": "https://fs-holzdesign.github.io/herzlich-wilkommen-in-meiner-holzwerkstatt/",
+            "title": "Herzlich wilkommen in meiner Holzwerkstatt",
+            "image": "https://fs-holzdesign.github.io/media/posts/6/20180505_083855.jpg",
+            "author": {
+                "name": "FS Holz Design"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T18:13:07+01:00",
+            "date_modified": "2026-10-27T18:13:07+01:00"
+        }
     ]
 }

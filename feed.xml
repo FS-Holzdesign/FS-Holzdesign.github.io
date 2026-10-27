@@ -3,10 +3,23 @@
     <title>https://fs-holzdesign.github.io/</title>
     <link href="https://fs-holzdesign.github.io/feed.xml" rel="self" />
     <link href="https://fs-holzdesign.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-10-27T18:13:07+01:00</updated>
     <author>
         <name>FS Holz Design</name>
     </author>
     <id>https://fs-holzdesign.github.io</id>
 
+    <entry>
+        <title>Herzlich wilkommen in meiner Holzwerkstatt</title>
+        <author>
+            <name>FS Holz Design</name>
+        </author>
+        <link href="https://fs-holzdesign.github.io/herzlich-wilkommen-in-meiner-holzwerkstatt/"/>
+        <id>https://fs-holzdesign.github.io/herzlich-wilkommen-in-meiner-holzwerkstatt/</id>
+        <media:content url="https://fs-holzdesign.github.io/media/posts/6/20180505_083855.jpg" medium="image" />
+
+        <updated>2026-10-27T18:13:07+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
