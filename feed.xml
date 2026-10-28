@@ -3,12 +3,25 @@
     <title>https://fs-holzdesign.github.io/</title>
     <link href="https://fs-holzdesign.github.io/feed.xml" rel="self" />
     <link href="https://fs-holzdesign.github.io" />
-    <updated>2026-10-28T18:09:23+01:00</updated>
+    <updated>2026-10-28T18:56:19+01:00</updated>
     <author>
         <name>FS Holz Design</name>
     </author>
     <id>https://fs-holzdesign.github.io</id>
 
+    <entry>
+        <title>Alles für Degus</title>
+        <author>
+            <name>FS Holz Design</name>
+        </author>
+        <link href="https://fs-holzdesign.github.io/alles-fuer-degus/"/>
+        <id>https://fs-holzdesign.github.io/alles-fuer-degus/</id>
+        <media:content url="https://fs-holzdesign.github.io/media/posts/8/IMG_7865.jpg" medium="image" />
+
+        <updated>2026-10-28T18:54:26+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Kästchen und Tabletts</title>
         <author>
@@ -21,7 +34,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img  src="https://fs-holzdesign.github.io/media/posts/7/20180505_083855.jpg" alt="" width="4032" height="3024" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fs-holzdesign.github.io/media/posts/7/responsive/20180505_083855-xs.jpg 300w ,https://fs-holzdesign.github.io/media/posts/7/responsive/20180505_083855-sm.jpg 480w ,https://fs-holzdesign.github.io/media/posts/7/responsive/20180505_083855-md.jpg 768w ,https://fs-holzdesign.github.io/media/posts/7/responsive/20180505_083855-lg.jpg 1024w"></figure><figure class="post__image post__image--left"><img loading="lazy"  src="https://fs-holzdesign.github.io/media/posts/7/Degu-Transportkiste-2_012.jpg" alt="" width="4032" height="2268" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fs-holzdesign.github.io/media/posts/7/responsive/Degu-Transportkiste-2_012-xs.jpg 300w ,https://fs-holzdesign.github.io/media/posts/7/responsive/Degu-Transportkiste-2_012-sm.jpg 480w ,https://fs-holzdesign.github.io/media/posts/7/responsive/Degu-Transportkiste-2_012-md.jpg 768w ,https://fs-holzdesign.github.io/media/posts/7/responsive/Degu-Transportkiste-2_012-lg.jpg 1024w"></figure>
+                <p><br><br></p>
             ]]>
         </content>
     </entry>
