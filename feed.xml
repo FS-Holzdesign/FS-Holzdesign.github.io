@@ -3,7 +3,7 @@
     <title>https://fs-holzdesign.github.io/</title>
     <link href="https://fs-holzdesign.github.io/feed.xml" rel="self" />
     <link href="https://fs-holzdesign.github.io" />
-    <updated>2026-10-28T21:20:59+01:00</updated>
+    <updated>2026-10-29T20:53:09+01:00</updated>
     <author>
         <name>FS Holz Design</name>
     </author>
@@ -19,8 +19,21 @@
         <media:content url="https://fs-holzdesign.github.io/media/posts/8/IMG_7865.jpg" medium="image" />
 
         <updated>2026-10-28T20:54:00+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://fs-holzdesign.github.io/media/posts/8/IMG_7865.jpg" alt="" />
+                    Herzlich willkommen in unserem Degu-Bereich! Um unsere Erklärungen zu den verwendeten Materialien&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fs-holzdesign.github.io/media/posts/8/IMG_7865.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center"><span style="color: rgb(236, 240, 241);">Herzlich willkommen in unserem Degu-Bereich! </span></p>
+<p class="align-center"><span style="color: rgb(236, 240, 241);">Um unsere Erklärungen zu den verwendeten Materialien und unsere Produktkategorien zu sehen, klicken Sie bitte hier.</span></p>
+<p> </p>
+<p class="align-center"><a href="https://fs-holzdesign.github.io/degu-zubehoer-2/">Hier geht es zum Degu Zubehör</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Dekoartikel</title>
