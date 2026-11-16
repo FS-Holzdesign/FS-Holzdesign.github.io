@@ -15,7 +15,7 @@
             "url": "https://fs-holzdesign.github.io/alles-fuer-degus/",
             "title": "Alles für Degus/Nager",
             "summary": "Herzlich willkommen in unserem Degu-Bereich! Um unsere Erklärungen zu den verwendeten Materialien&hellip;",
-            "content_html": "<p class=\"align-center\"><span style=\"color: rgb(236, 240, 241);\">Herzlich willkommen in unserem Degu-Bereich! </span></p>\n<p class=\"align-center\"><span style=\"color: rgb(236, 240, 241);\">Um unsere Erklärungen zu den verwendeten Materialien und unsere Produktkategorien zu sehen, klicken Sie bitte hier.</span></p>\n<p class=\"align-center\"><span style=\"color: rgb(236, 240, 241);\">Es besteht die Möglichkeit, alle Artikel in anderen (Wunsch-) Größen herzustellen, z.B. für Meerschweinchen, Kaninchen, Hamster, oder Chinchilla.</span></p>\n<p class=\"align-center\"><a href=\"https://fs-holzdesign.github.io/degu-zubehoer-2/\">Hier geht es zum Degu Zubehör</a></p>",
+            "content_html": "<p class=\"align-center\"><span style=\"color: rgb(236, 240, 241);\">Herzlich willkommen in unserem Degu-Bereich! </span></p>\n<p class=\"align-center\"><span style=\"color: rgb(236, 240, 241);\">Um unsere Erklärungen zu den verwendeten Materialien und unsere Produktkategorien zu sehen, klicken Sie bitte hier.</span></p>\n<p class=\"align-center\"><span style=\"color: rgb(236, 240, 241);\">Es besteht die Möglichkeit, alle Artikel in anderen (Wunsch-) Größen herzustellen, z.B. für Meerschweinchen, Kaninchen, Hamster, oder Chinchilla.</span></p>\n<p> </p>\n<h1 class=\"align-center\"><a href=\"https://fs-holzdesign.github.io/degu-zubehoer-2/\">Hier geht es zum Degu Zubehör</a></h1>",
             "image": "https://fs-holzdesign.github.io/media/posts/8/IMG_3157.jpg",
             "author": {
                 "name": "FS Holz Design"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2026-10-28T20:54:00+01:00",
-            "date_modified": "2026-11-15T16:21:49+01:00"
+            "date_modified": "2026-11-16T18:01:14+01:00"
         },
         {
             "id": "https://fs-holzdesign.github.io/dekoartikel/",
@@ -36,13 +36,13 @@
             "tags": [
             ],
             "date_published": "2026-10-28T20:45:00+01:00",
-            "date_modified": "2026-10-28T21:18:24+01:00"
+            "date_modified": "2026-11-16T20:18:43+01:00"
         },
         {
             "id": "https://fs-holzdesign.github.io/kaestchen-und-tabletts/",
             "url": "https://fs-holzdesign.github.io/kaestchen-und-tabletts/",
             "title": "Kästchen und Tabletts",
-            "content_html": "<p><br><br></p>",
+            "content_html": "<p><a href=\"https://fs-holzdesign.github.io/under-construction/\"></a><br><br></p>",
             "image": "https://fs-holzdesign.github.io/media/posts/7/Radeberger-Kasten_033.jpg",
             "author": {
                 "name": "FS Holz Design"
@@ -50,7 +50,7 @@
             "tags": [
             ],
             "date_published": "2026-10-28T20:41:00+01:00",
-            "date_modified": "2026-10-28T21:17:37+01:00"
+            "date_modified": "2026-11-16T20:34:59+01:00"
         },
         {
             "id": "https://fs-holzdesign.github.io/kumiko/",
@@ -63,12 +63,12 @@
             "tags": [
             ],
             "date_published": "2026-10-28T20:36:00+01:00",
-            "date_modified": "2026-10-28T21:12:51+01:00"
+            "date_modified": "2026-11-16T21:06:42+01:00"
         },
         {
             "id": "https://fs-holzdesign.github.io/was-noch-moeglich-ist/",
             "url": "https://fs-holzdesign.github.io/was-noch-moeglich-ist/",
-            "title": "Was noch möglich ist...",
+            "title": "Was ich sonst noch baue...",
             "image": "https://fs-holzdesign.github.io/media/posts/12/Modell-Haus_04.jpg",
             "author": {
                 "name": "FS Holz Design"
@@ -76,7 +76,7 @@
             "tags": [
             ],
             "date_published": "2026-10-28T20:30:00+01:00",
-            "date_modified": "2026-10-28T21:20:59+01:00"
+            "date_modified": "2026-11-16T20:22:45+01:00"
         },
         {
             "id": "https://fs-holzdesign.github.io/rund-um-rockharz-r/",
@@ -89,7 +89,7 @@
             "tags": [
             ],
             "date_published": "2026-10-27T14:42:00+01:00",
-            "date_modified": "2026-10-28T21:14:04+01:00"
+            "date_modified": "2026-11-16T20:20:08+01:00"
         }
     ]
 }

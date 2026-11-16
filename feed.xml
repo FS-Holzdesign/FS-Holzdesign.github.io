@@ -3,7 +3,7 @@
     <title>https://fs-holzdesign.github.io/</title>
     <link href="https://fs-holzdesign.github.io/feed.xml" rel="self" />
     <link href="https://fs-holzdesign.github.io" />
-    <updated>2026-11-15T16:21:49+01:00</updated>
+    <updated>2026-11-16T21:06:42+01:00</updated>
     <author>
         <name>FS Holz Design</name>
     </author>
@@ -31,7 +31,8 @@
                 <p class="align-center"><span style="color: rgb(236, 240, 241);">Herzlich willkommen in unserem Degu-Bereich! </span></p>
 <p class="align-center"><span style="color: rgb(236, 240, 241);">Um unsere Erklärungen zu den verwendeten Materialien und unsere Produktkategorien zu sehen, klicken Sie bitte hier.</span></p>
 <p class="align-center"><span style="color: rgb(236, 240, 241);">Es besteht die Möglichkeit, alle Artikel in anderen (Wunsch-) Größen herzustellen, z.B. für Meerschweinchen, Kaninchen, Hamster, oder Chinchilla.</span></p>
-<p class="align-center"><a href="https://fs-holzdesign.github.io/degu-zubehoer-2/">Hier geht es zum Degu Zubehör</a></p>
+<p> </p>
+<h1 class="align-center"><a href="https://fs-holzdesign.github.io/degu-zubehoer-2/">Hier geht es zum Degu Zubehör</a></h1>
             ]]>
         </content>
     </entry>
@@ -62,7 +63,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://fs-holzdesign.github.io/media/posts/7/Radeberger-Kasten_033.jpg" class="type:primaryImage" alt="" /></p>
-                <p><br><br></p>
+                <p><a href="https://fs-holzdesign.github.io/under-construction/"></a><br><br></p>
             ]]>
         </content>
     </entry>
@@ -80,7 +81,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Was noch möglich ist...</title>
+        <title>Was ich sonst noch baue...</title>
         <author>
             <name>FS Holz Design</name>
         </author>
