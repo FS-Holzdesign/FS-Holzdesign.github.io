@@ -7,4 +7,20 @@
         }
         // Bei allem anderen (Bildern, Hero-Bannern, Kacheln) wird die rechte Maustaste blockiert
         e.preventDefault();
-    }, true);</script></body></html>
+    }, true);</script><script>document.addEventListener('keydown', function(e) {
+        // Blockiert F12 (Entwicklertools)
+        if (e.key === 'F12' || e.keyCode === 123) {
+            e.preventDefault();
+            return false;
+        }
+        // Blockiert Strg + Umschalt + I / J / C (Entwicklertools / Element untersuchen)
+        if (e.ctrlKey && e.shiftKey && ['I', 'i', 'J', 'j', 'C', 'c'].includes(e.key)) {
+            e.preventDefault();
+            return false;
+        }
+        // Blockiert Strg + U (Seitenquelltext anzeigen) und Strg + S (Seite speichern)
+        if (e.ctrlKey && ['U', 'u', 'S', 's'].includes(e.key)) {
+            e.preventDefault();
+            return false;
+        }
+    });</script></body></html>
